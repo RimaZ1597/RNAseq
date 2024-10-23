@@ -5,7 +5,7 @@ RNA seq data anslysis: downloading raw sequencing data, performing quality contr
 ### Step 1: Download Raw Data
 1. **NCBI SRA**:
    - [NCBI SRA](http://www.ncbi.nlm.nih.gov/sra?term=SRP028518).
-   - Download the following samples:
+   - Downloaded Data:
      - Treated: SRR947912, SRR947911
      - Control: SRR947901, SRR947902
 
