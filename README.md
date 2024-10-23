@@ -1,6 +1,6 @@
+RNA seq data anslysis: downloading raw sequencing data, performing quality control, mapping, and analyzing differential expression using various bioinformatics tools.
 ![RNA-seq-based-transcriptome-analysis](https://github.com/user-attachments/assets/2be3c79f-3d3f-4fc0-8222-3e2d78c66f1a)
 
-RNA seq data anslysis: downloading raw sequencing data, performing quality control, mapping, and analyzing differential expression using various bioinformatics tools.
 # RNA-Seq Pipeline: 
 ![rnaseq_pipline](https://github.com/user-attachments/assets/213ad0a6-7fbf-4295-a6e5-e6914024248a)
 
