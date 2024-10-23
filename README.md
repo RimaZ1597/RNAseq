@@ -4,16 +4,16 @@ RNA seq data anslysis: downloading raw sequencing data, performing quality contr
 
 ### Step 1: Download Raw Data
 1. **NCBI SRA**:
-   - Go to [NCBI SRA](http://www.ncbi.nlm.nih.gov/sra?term=SRP028518).
+   - [NCBI SRA](http://www.ncbi.nlm.nih.gov/sra?term=SRP028518).
    - Download the following samples:
      - Treated: SRR947912, SRR947911
      - Control: SRR947901, SRR947902
 
-   Alternatively, you can download the FASTQ files directly from the **ENA**:
-   - Visit [ENA](http://www.ebi.ac.uk/ena/submit/read-submission).
+   Alternative Option **ENA**:
+   - [ENA](http://www.ebi.ac.uk/ena/submit/read-submission).
 
 ### Step 2: Download Reference Genome and GFF/GTF
-- Visit [UCSC Genome Browser](https://genome.ucsc.edu/) and select the appropriate reference genome and annotation files (GFF/GTF) for your organism.
+- [UCSC Genome Browser](https://genome.ucsc.edu/) and select the appropriate reference genome and annotation files (GFF/GTF) for your organism.
 
 ### Step 3: Install Required Software
 1. **FastQC**:
