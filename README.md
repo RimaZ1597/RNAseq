@@ -90,7 +90,6 @@ RNA seq data anslysis: downloading raw sequencing data, performing quality contr
 - The results will be found in the `Cuffdiff_out/` directory, particularly in the `gene_exp.diff` file, which summarizes the differential expression analysis.
 
 ### DEGene_list
-Here’s a formatted table for your README:
 
 | GENES List           | log2FC    |
 |----------------------|-----------|
