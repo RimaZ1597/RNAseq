@@ -1,4 +1,4 @@
-RNA seq data analysis: downloading raw sequencing data, performing quality control, mapping, and analysing differential expression using various bioinformatics tools.
+This repository contains a standard RNA-sequencing (RNA-seq) data analysis pipeline. The process is designed to take raw sequence data (FASTQ files) from Control and Treated biological replicates and perform quality assessment, read cleaning, alignment to a reference genome, and finally, differential gene expression analysis using the **Tuxedo Suite** (TopHat2, Cufflinks, Cuffmerge, Cuffdiff).
 
 # RNA-Seq Pipeline: 
 
