@@ -1,7 +1,6 @@
 RNA seq data analysis: downloading raw sequencing data, performing quality control, mapping, and analysing differential expression using various bioinformatics tools.
 
 # RNA-Seq Pipeline: 
-![rnaseq_pipline](https://github.com/user-attachments/assets/213ad0a6-7fbf-4295-a6e5-e6914024248a)
 
 ### Step 1: Download Raw Data
 1. **NCBI SRA**:
